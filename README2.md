@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Sat Jan 21 2023
+La date actuelle est : Sun Jan 01 2023
 
 ## Quote
 
-"Happiness is found in doing, not merely possessing."
+"Always bear in mind that your own resolution to succeed is more important than any one thing."
 
-🤖 This README2.md is updated with horror, by Quavo ❤️
+🤖 This README2.md is updated with undefined, by Quavo ❤️
 
-Last update: Sat Jan 21 2023
+Last update: Sun Jan 01 2023
