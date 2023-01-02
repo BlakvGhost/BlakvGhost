@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Sun Jan 01 2023
+La date actuelle est : Mon Jan 02 2023
 
 ## Quote
 
-"Always bear in mind that your own resolution to succeed is more important than any one thing."
+"Always bear in mind that your own resolution to succeed is more important than any other."
 
-🤖 This README2.md is updated with undefined, by Quavo ❤️
+🤖 This README2.md is updated with hate, by Quavo ❤️
 
-Last update: Sun Jan 01 2023
+Last update: Mon Jan 02 2023
