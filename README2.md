@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Mon Jan 02 2023
+La date actuelle est : Tue Jan 03 2023
 
 ## Quote
 
-"Always bear in mind that your own resolution to succeed is more important than any other."
+"The self is not something ready-made, but something in continuous formation through choice of action."
 
-🤖 This README2.md is updated with hate, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Mon Jan 02 2023
+Last update: Tue Jan 03 2023
