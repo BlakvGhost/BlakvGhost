@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Tue Jan 03 2023
+La date actuelle est : Wed Jan 04 2023
 
 ## Quote
 
-"The self is not something ready-made, but something in continuous formation through choice of action."
+"Remember that failure is an event, not a person."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with pleasure, by Quavo ❤️
 
-Last update: Tue Jan 03 2023
+Last update: Wed Jan 04 2023
