@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kabirou ALASSANE</h1>
-<h5 align="center">I am a software engineer and UI/UX designer focused on web development projects with Python , PHP, Node.JS and database administration . I am generally working on personal projects to grow my skills up, though i also have interest in other fields.</h5>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Kabirou ALASSANE</h1>
+<h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
 
-- 🔭 I’m currently working on **Frontend project**
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS**
+- 🔭 I’m currently working on **Musika, a musique web streaming app**
 
-- 👨‍💻 All of my projects are available at [https://kabirou-dev.vercel.app](https://kabirou-dev.vercel.app/)
+- 🌱 I’m currently learning **NodeJS, Angular**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kabirou-dev.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, PHP, JavaScript, VueJS, Angular, Python/Django, NodeJS**
 
@@ -13,7 +15,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=BlakvGhost&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" /> </p>
 
 
-## <p align="center">Skills:</p>
+## <p align="center">🛠 &nbsp;Languages and Tools :</p>
 
 <p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
