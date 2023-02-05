@@ -14,6 +14,9 @@
   <a href="https://dev.to/blakvghost" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Devto-yellow?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Badge"/>
   </a>
+  <a href="https://blakvghost.medium.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
