@@ -30,9 +30,12 @@
 - 💬 Ask me about **HTML, CSS, PHP, JavaScript, VueJS, Angular, Python/Django, NodeJS**
 
 - 📫 How to reach me **kabirou2001@gmail.com**
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BlakvGhost&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=BlakvGhost&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" />
+<a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a>
+</p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 
 ## <p align="center">🛠 &nbsp;Languages and Tools :</p>
 
