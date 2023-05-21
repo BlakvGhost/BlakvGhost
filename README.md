@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Angular**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kabirou-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kabirou-alassane.com)
 
 - 💬 Ask me about **HTML, CSS, PHP, JavaScript, VueJS, Angular, Python/Django, NodeJS**
 
