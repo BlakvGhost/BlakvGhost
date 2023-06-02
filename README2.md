@@ -1,3 +1,3 @@
 # Quavo
 
-La date actuelle est : Thu Jun 01 2023}
+La date actuelle est : Fri Jun 02 2023}
