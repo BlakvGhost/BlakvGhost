@@ -40,7 +40,7 @@ async function updateReadme() {
 <p align="center">"${getSigning()}"</p>
 `;
 
-    writeFileSync('README2.md', readmeContent, { encoding: 'utf-8' });
+    writeFileSync('README.md', readmeContent, { encoding: 'utf-8' });
     console.log(readmeContent);
   }
 }
