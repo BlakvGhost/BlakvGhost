@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Wed Jan 11 2023
+La date actuelle est : Thu Jan 12 2023
 
 ## Quote
 
-"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."
+"To be wrong is nothing unless you continue to remember it."
 
-🤖 This README2.md is updated with pleasure, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Wed Jan 11 2023
+Last update: Thu Jan 12 2023
