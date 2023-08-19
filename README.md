@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="left">"Good judgment comes from experience, and a lot of that comes from bad judgment."</p>
-<p align="center">"🤖 This README.md is updated with horror, by Quavo ❤️"</p>
+<p align="center">"The foolish man seeks happiness in the distance, the wise grows it under his feet." </p>
+<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
 
