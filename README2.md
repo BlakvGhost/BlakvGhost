@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Wed Jan 04 2023
+La date actuelle est : Thu Jan 05 2023
 
 ## Quote
 
-"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."
+"Can you imagine what I would do if I could do all I can?"
 
-🤖 This README2.md is updated with pleasure, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Wed Jan 04 2023
+Last update: Thu Jan 05 2023
