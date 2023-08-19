@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Sat Jan 07 2023
+La date actuelle est : Sun Jan 08 2023
 
 ## Quote
 
-"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."
+"Inspiration exists, but it has to find us working."
 
-🤖 This README2.md is updated with horror, by Quavo ❤️
+🤖 This README2.md is updated with undefined, by Quavo ❤️
 
-Last update: Sat Jan 07 2023
+Last update: Sun Jan 08 2023
