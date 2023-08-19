@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   update-readme:
@@ -32,6 +32,6 @@ jobs:
           author_email: kabirou2001@gmail.com
           force: false
           signoff: false
-          message: 'README.md updated by Quavo ❤️'
+          message: ' 🤖Auto: README.md updated by Quavo ❤️, my Github bot'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

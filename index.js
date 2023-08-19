@@ -36,7 +36,7 @@ async function updateReadme() {
     const readmeContent = ` ${readme}
 ## <p align="center">Quote</p>
 
-<p align="left">"${quote}"</p>
+<p align="left">"${quote}" #${today.getMinutes()} </p>
 <p align="center">"${getSigning()}"</p>
 `;
 
