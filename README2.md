@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Mon Jan 16 2023
+La date actuelle est : Tue Jan 17 2023
 
 ## Quote
 
-"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."
+"Never accept ultimatums, conventional wisdom, or absolutes."
 
-🤖 This README2.md is updated with hate, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Mon Jan 16 2023
+Last update: Tue Jan 17 2023
