@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Tue Jan 17 2023
+La date actuelle est : Wed Jan 18 2023
 
 ## Quote
 
-"Never accept ultimatums, conventional wisdom, or absolutes."
+"To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with pleasure, by Quavo ❤️
 
-Last update: Tue Jan 17 2023
+Last update: Wed Jan 18 2023
