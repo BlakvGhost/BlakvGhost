@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Sun Jan 01 2023
+La date actuelle est : Mon Jan 02 2023
 
 ## Quote
 
-"Discovery consists of seeing what everybody has seen and thinking what nobody else has thought."
+"If you're changing the world, you're working on important things. You're excited to get up in the morning."
 
-🤖 This README2.md is updated with undefined, by Quavo ❤️
+🤖 This README2.md is updated with hate, by Quavo ❤️
 
-Last update: Sun Jan 01 2023
+Last update: Mon Jan 02 2023
