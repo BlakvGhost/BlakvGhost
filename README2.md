@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Fri Jan 06 2023
+La date actuelle est : Sat Jan 07 2023
 
 ## Quote
 
-"Do what you can. Want what you have. Be who you are."
+"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."
 
-🤖 This README2.md is updated with cruelty, by Quavo ❤️
+🤖 This README2.md is updated with horror, by Quavo ❤️
 
-Last update: Fri Jan 06 2023
+Last update: Sat Jan 07 2023
