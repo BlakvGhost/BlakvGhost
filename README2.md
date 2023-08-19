@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Wed Jan 18 2023
+La date actuelle est : Thu Jan 19 2023
 
 ## Quote
 
-"To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others."
+"Our most intimate friend is not he to whom we show the worst, but the best of our nature."
 
-🤖 This README2.md is updated with pleasure, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Wed Jan 18 2023
+Last update: Thu Jan 19 2023
