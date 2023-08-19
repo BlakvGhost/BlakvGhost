@@ -11,13 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [16.x]
     steps:
       - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+      - name: Install project dependencies
+        run: npm install
       - name: Update README.md file
         run: |
           node index.js > README.md
@@ -32,5 +34,4 @@ jobs:
           signoff: false
           message: 'README.md updated by Quavo ❤️'
         env:
-
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
