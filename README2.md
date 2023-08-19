@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Fri Jan 13 2023
+La date actuelle est : Sat Jan 14 2023
 
 ## Quote
 
-"Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude."
+"Think in the morning. Act in the noon. Eat in the evening. Sleep in the night."
 
-🤖 This README2.md is updated with cruelty, by Quavo ❤️
+🤖 This README2.md is updated with horror, by Quavo ❤️
 
-Last update: Fri Jan 13 2023
+Last update: Sat Jan 14 2023
