@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Thu Jan 19 2023
+La date actuelle est : Fri Jan 20 2023
 
 ## Quote
 
-"Our most intimate friend is not he to whom we show the worst, but the best of our nature."
+"Kind words do not cost much. Yet they accomplish much."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with cruelty, by Quavo ❤️
 
-Last update: Thu Jan 19 2023
+Last update: Fri Jan 20 2023
