@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/BlakvGhost/BlakvGhost#readme",
   "dependencies": {
-    "axios": "^1.4.0",
-    "simple-git": "^3.19.1"
+    "axios": "^1.4.0"
   }
 }
