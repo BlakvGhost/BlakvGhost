@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Mon Jan 02 2023
+La date actuelle est : Tue Jan 03 2023
 
 ## Quote
 
-"If you're changing the world, you're working on important things. You're excited to get up in the morning."
+"Success is where preparation and opportunity meet."
 
-🤖 This README2.md is updated with hate, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Mon Jan 02 2023
+Last update: Tue Jan 03 2023
