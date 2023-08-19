@@ -1,3 +1,4 @@
+export default `
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Kabirou ALASSANE</h1>
 <h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
 
@@ -75,3 +76,5 @@
 ## <p align="center">Support me</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/kabiroualassane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
+
+`
