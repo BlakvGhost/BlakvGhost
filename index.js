@@ -1,12 +1,12 @@
-import { get } from 'axios';
+import axios from 'axios';
 import { writeFileSync } from 'fs';
-import readme from './readme';
+import readme from './readme.js';
 
 const today = new Date();
 
 async function getRandomQuote() {
   try {
-    const response = await get('https://api.quotable.io/random');
+    const response = await axios.get('https://api.quotable.io/random');
     return response.data.content;
   } catch (error) {
     console.error('Erreur lors de la récupération de la citation:', error);
@@ -36,12 +36,12 @@ async function updateReadme() {
     const readmeContent = ` ${readme}
 ## <p align="center">Quote</p>
 
-<p align="left">Random quote for today :</p>
 <p align="left">"${quote}"</p>
 <p align="center">"${getSigning()}"</p>
 `;
 
-    writeFileSync('README.md', readmeContent, { encoding: 'utf-8' });
+    writeFileSync('README2.md', readmeContent, { encoding: 'utf-8' });
+    console.log(readmeContent);
   }
 }
 

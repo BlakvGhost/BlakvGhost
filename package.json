@@ -1,0 +1,28 @@
+{
+  "name": "quavo",
+  "version": "1.0.0",
+  "description": "Bot to Update README all day at 00:00 for my github repo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakvGhost/BlakvGhost.git"
+  },
+  "keywords": [
+    "quavo",
+    "bot",
+    "github-action"
+  ],
+  "author": "BlakvGhost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlakvGhost/BlakvGhost/issues"
+  },
+  "homepage": "https://github.com/BlakvGhost/BlakvGhost#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
