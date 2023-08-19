@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Sat Jan 14 2023
+La date actuelle est : Sun Jan 15 2023
 
 ## Quote
 
-"Think in the morning. Act in the noon. Eat in the evening. Sleep in the night."
+"Life is a succession of lessons, which must be lived to be understood."
 
-🤖 This README2.md is updated with horror, by Quavo ❤️
+🤖 This README2.md is updated with undefined, by Quavo ❤️
 
-Last update: Sat Jan 14 2023
+Last update: Sun Jan 15 2023
