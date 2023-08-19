@@ -31,7 +31,7 @@ function getSigning(date) {
 }
 
 async function updateReadmeAndCommit(date) {
-
+    const quote = true;
   if (quote) {
     const readmeContent = `# Quavo\n\nLa date actuelle est : ${date.toDateString()}}`;
 
