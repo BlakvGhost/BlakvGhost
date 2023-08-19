@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Tue Jan 10 2023
+La date actuelle est : Wed Jan 11 2023
 
 ## Quote
 
-"Nothing strengthens authority so much as silence."
+"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with pleasure, by Quavo ❤️
 
-Last update: Tue Jan 10 2023
+Last update: Wed Jan 11 2023
