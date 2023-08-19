@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Fri Jan 20 2023
+La date actuelle est : Sat Jan 21 2023
 
 ## Quote
 
-"Kind words do not cost much. Yet they accomplish much."
+"Happiness is found in doing, not merely possessing."
 
-🤖 This README2.md is updated with cruelty, by Quavo ❤️
+🤖 This README2.md is updated with horror, by Quavo ❤️
 
-Last update: Fri Jan 20 2023
+Last update: Sat Jan 21 2023
