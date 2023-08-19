@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Thu Jan 05 2023
+La date actuelle est : Fri Jan 06 2023
 
 ## Quote
 
-"Can you imagine what I would do if I could do all I can?"
+"Do what you can. Want what you have. Be who you are."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with cruelty, by Quavo ❤️
 
-Last update: Thu Jan 05 2023
+Last update: Fri Jan 06 2023
