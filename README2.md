@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Mon Jan 09 2023
+La date actuelle est : Tue Jan 10 2023
 
 ## Quote
 
-"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."
+"Nothing strengthens authority so much as silence."
 
-🤖 This README2.md is updated with hate, by Quavo ❤️
+🤖 This README2.md is updated with wickedness, by Quavo ❤️
 
-Last update: Mon Jan 09 2023
+Last update: Tue Jan 10 2023
