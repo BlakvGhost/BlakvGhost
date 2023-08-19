@@ -1,11 +1,11 @@
 # Mon Projet
 
-La date actuelle est : Tue Jan 03 2023
+La date actuelle est : Wed Jan 04 2023
 
 ## Quote
 
-"Success is where preparation and opportunity meet."
+"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."
 
-🤖 This README2.md is updated with wickedness, by Quavo ❤️
+🤖 This README2.md is updated with pleasure, by Quavo ❤️
 
-Last update: Tue Jan 03 2023
+Last update: Wed Jan 04 2023
