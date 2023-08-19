@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"The foolish man seeks happiness in the distance, the wise grows it under his feet." </p>
+<p align="center">"Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along." </p>
 <p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
 
