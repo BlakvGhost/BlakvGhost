@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Friends show their love in times of trouble, not in happiness." </p>
-<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
+<p align="center">"Spectacular achievement is always preceded by unspectacular preparation." </p>
+<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
 
