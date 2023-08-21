@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Spectacular achievement is always preceded by unspectacular preparation." </p>
-<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
+<p align="center">"Dost thou love life? Then do not squander time, for that is the stuff life is made of." </p>
+<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
 
