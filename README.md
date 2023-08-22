@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@kabirou-dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com/g4l1l30_77" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/BlakvGhost" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://dev.to/blakvghost" target="_blank" rel="noreferrer">
@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together." </p>
+<p align="center">"It all depends on how we look at things, and not how they are in themselves." </p>
 <p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
