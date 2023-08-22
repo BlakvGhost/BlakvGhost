@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Dost thou love life? Then do not squander time, for that is the stuff life is made of." </p>
-<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
+<p align="center">"Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
