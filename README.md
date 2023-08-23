@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"It all depends on how we look at things, and not how they are in themselves." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"Problems are only opportunities with thorns on them." </p>
+<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
 
