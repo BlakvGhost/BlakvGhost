@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"The only journey is the one within." </p>
-<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
+<p align="center">"Change your thoughts and you change your world." </p>
+<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
 
