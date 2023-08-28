@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Change your thoughts and you change your world." </p>
-<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
+<p align="center">"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless." </p>
+<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
 
