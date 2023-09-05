@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kabirou-alassane-11293524a" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@kabirou-dev" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@HyperText23" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitter.com/BlakvGhost" target="_blank" rel="noreferrer">
@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Angular**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kabirou-alassane.com)
+- 📺 Follow me on my [youtube channel](https://youtube.com/@HyperText23)
 
 - 💬 Ask me about **PHP, JavaScript, VueJS, Angular, Python/Django, NodeJS, Flutter**
 
@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless." </p>
-<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
+<p align="center">"Follow your instincts. That is where true wisdom manifests itself." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
