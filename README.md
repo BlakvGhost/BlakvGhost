@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Follow your instincts. That is where true wisdom manifests itself." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there." </p>
+<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
 
