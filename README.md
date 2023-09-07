@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there." </p>
-<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
+<p align="center">"And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
