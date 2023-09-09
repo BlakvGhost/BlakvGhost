@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"It takes courage to grow up and become who you really are." </p>
-<p align="center">🤖 This README.md is updated with cruelty, by Quavo ❤️</p>
+<p align="center">"How far that little candle throws its beams! So shines a good deed in a naughty world." </p>
+<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
 
