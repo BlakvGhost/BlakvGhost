@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"There is only one happiness in life, to love and be loved." </p>
-<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
+<p align="center">"Our greatest glory is not in never falling, but in rising every time we fall." </p>
+<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
 
