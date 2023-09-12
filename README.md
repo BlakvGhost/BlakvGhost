@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Our greatest glory is not in never falling, but in rising every time we fall." </p>
-<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
+<p align="center">"Better to have loved and lost, than to have never loved at all." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
