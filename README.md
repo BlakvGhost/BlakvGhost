@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Better to have loved and lost, than to have never loved at all." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"You know you're in love when you can't fall asleep because reality is finally better than your dreams." </p>
+<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
 
