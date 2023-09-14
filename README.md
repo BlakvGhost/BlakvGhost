@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"You know you're in love when you can't fall asleep because reality is finally better than your dreams." </p>
-<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
+<p align="center">"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
