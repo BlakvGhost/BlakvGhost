@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"Until you make peace with who you are, you will never be content with what you have." </p>
+<p align="center">🤖 This README.md is updated with cruelty, by Quavo ❤️</p>
 
