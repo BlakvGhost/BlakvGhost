@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Until you make peace with who you are, you will never be content with what you have." </p>
-<p align="center">🤖 This README.md is updated with cruelty, by Quavo ❤️</p>
+<p align="center">"And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace." </p>
+<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
 
