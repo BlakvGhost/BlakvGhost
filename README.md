@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace." </p>
-<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
+<p align="center">"Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible." </p>
+<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
 
