@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible." </p>
-<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
+<p align="center">"Go put your creed into the deed. Nor speak with double tongue." </p>
+<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
 
