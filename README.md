@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"When you realize there is nothing lacking, the whole world belongs to you." </p>
+<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
 
