@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"When you realize there is nothing lacking, the whole world belongs to you." </p>
-<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
+<p align="center">"Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
