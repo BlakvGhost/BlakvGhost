@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Arriving at one point is the starting point to another." </p>
-<p align="center">🤖 This README.md is updated with cruelty, by Quavo ❤️</p>
+<p align="center">"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." </p>
+<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
 
