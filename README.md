@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." </p>
-<p align="center">🤖 This README.md is updated with horror, by Quavo ❤️</p>
+<p align="center">"Rejoicing in our joy, not suffering over our suffering, makes someone a friend." </p>
+<p align="center">🤖 This README.md is updated with undefined, by Quavo ❤️</p>
 
