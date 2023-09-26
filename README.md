@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"How we spend our days is, of course, how we spend our lives." </p>
-<p align="center">🤖 This README.md is updated with hate, by Quavo ❤️</p>
+<p align="center">"There are things so deep and complex that only intuition can reach it in our stage of development as human beings." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
