@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"There are things so deep and complex that only intuition can reach it in our stage of development as human beings." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"It is more shameful to distrust our friends than to be deceived by them." </p>
+<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
 
