@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"It is more shameful to distrust our friends than to be deceived by them." </p>
-<p align="center">🤖 This README.md is updated with pleasure, by Quavo ❤️</p>
+<p align="center">"Wishing to be friends is quick work, but friendship is a slow ripening fruit." </p>
+<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
 
