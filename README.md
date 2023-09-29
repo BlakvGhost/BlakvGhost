@@ -80,6 +80,6 @@
 
 ## <p align="center">Quote</p>
 
-<p align="center">"Wishing to be friends is quick work, but friendship is a slow ripening fruit." </p>
-<p align="center">🤖 This README.md is updated with wickedness, by Quavo ❤️</p>
+<p align="center">"I know but one freedom and that is the freedom of the mind." </p>
+<p align="center">🤖 This README.md is updated with cruelty, by Quavo ❤️</p>
 
