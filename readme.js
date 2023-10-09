@@ -1,6 +1,6 @@
 export default `
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Kabirou ALASSANE</h1>
-<h5 align="center">I am a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
+<h5 align="center">I'm a web & mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin 🇧🇯. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kabirou-alassane-11293524a" target="_blank" rel="noreferrer">
