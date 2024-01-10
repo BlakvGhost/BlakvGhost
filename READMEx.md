@@ -72,4 +72,4 @@ if __name__ == '__main__':
 
 <h2 align="center">My Recently YouTube Videos</h2>
 
-<div id="youtube-videos" align="center"></div>
+<div id="youtube-videos"></div>
