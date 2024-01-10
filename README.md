@@ -61,15 +61,17 @@ if __name__ == '__main__':
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost"/>
 </p>
-
-<h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost"/>
 </p>
 
 <h2 align="center">My Recently YouTube Videos</h2>
 
 <div id="youtube-videos" align="center"><a href="https://www.youtube.com/watch?v=7Y8NU0C-YNY" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/7Y8NU0C-YNY/default.jpg" alt="Le modèle #MVT en #Django #shorts" title="Le modèle #MVT en #Django #shorts" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=-Mfo78DomWM" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/-Mfo78DomWM/default.jpg" alt="#short utilisation de l&#39;API #fetch en #javascript" title="#short utilisation de l&#39;API #fetch en #javascript" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=p3WeZSO2TCI" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/p3WeZSO2TCI/default.jpg" alt="L&#39;API FETCH #JavaScript Tips" title="L&#39;API FETCH #JavaScript Tips" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=xK4HC-mE4s8" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/xK4HC-mE4s8/default.jpg" alt="Apprendre Django #8 - Les templates (3/3)" title="Apprendre Django #8 - Les templates (3/3)" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=0KA0S_AnPEY" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/0KA0S_AnPEY/default.jpg" alt="#shorts le filtre #default en #django" title="#shorts le filtre #default en #django" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=qL660v9JstQ" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/qL660v9JstQ/default.jpg" alt="Apprendre Django #7 - Les templates (2/3)" title="Apprendre Django #7 - Les templates (2/3)" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=r1-YGMu62f0" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/r1-YGMu62f0/default.jpg" alt="#shorts les inclusions dans les #template #django" title="#shorts les inclusions dans les #template #django" width="20%"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=nUutvpFky6g" target="_blank" style="margin:5px"><img src="https://i.ytimg.com/vi/nUutvpFky6g/default.jpg" alt="#shorts les #fichiers statiques en #django" title="#shorts les #fichiers statiques en #django" width="20%"></a>&nbsp;&nbsp;&nbsp;</div>
+
+<h2 align="center">I'm currently vibing to 🎧</h2>
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+</p>
