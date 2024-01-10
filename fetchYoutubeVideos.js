@@ -28,7 +28,7 @@ export default async function fetchYouTubeVideos() {
             const videoUrl = `https://www.youtube.com/watch?v=${video.videoId}`;
             return `<a href="${videoUrl}" target="_blank" style="margin:5px"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%" style="margin: 0 1%;"></a>`;
         });
-        return apiKey;
+
         return videoElements.join('');
     } catch (error) {
         console.error('Error fetching YouTube videos:', error);
