@@ -61,15 +61,17 @@ if __name__ == '__main__':
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost"/>
 </p>
-
-<h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost"/>
 </p>
 
 <h2 align="center">My Recently YouTube Videos</h2>
 
 <div id="youtube-videos"></div>
+
+<h2 align="center">I'm currently vibing to 🎧</h2>
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+</p>
