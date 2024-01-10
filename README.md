@@ -58,11 +58,11 @@ if __name__ == '__main__':
   <a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a>
 </p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Statistics</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" />
+</p>
 
 <h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
@@ -70,41 +70,3 @@ if __name__ == '__main__':
 </p>
 
 <h2 align="center">Recently YouTube Videos</h2>
-
-<!-- Insert this script at the end of your README.md file -->
-
-<script>
-  const apiKey = process.env.YOUR_API_KEY;
-  const apiKey = 'AIzaSyDvluixOhVDIydIw6g967ZhJF7Wy2zpquc';
-  const channelId = 'UCjI0cBhvFI69L3TcL5nCLEw';
-  const maxResults = 5;
-  const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&maxResults=${maxResults}&order=date&type=video&key=${apiKey}`;
-
-  async function fetchYouTubeVideos() {
-    try {
-      const response = await fetch(apiUrl);
-      const data = await response.json();
-
-      const videos = data.items.map(item => {
-        const { videoId } = item.id;
-        const { title } = item.snippet;
-        const thumbnailUrl = item.snippet.thumbnails.default.url;
-
-        return {
-          videoId,
-          title,
-          thumbnailUrl
-        };
-      });
-
-      videos.forEach(video => {
-        const videoUrl = `https://www.youtube.com/watch?v=${video.videoId}`;
-        document.write(`<a href="${videoUrl}" target="_blank"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%" style="margin: 0 1%;"></a>`);
-      });
-    } catch (error) {
-      console.error('Error fetching YouTube videos:', error);
-    }
-  }
-
-  fetchYouTubeVideos();
-</script>
