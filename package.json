@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Bot to Update README all day at 00:00 for my github repo",
   "type": "module",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "updateReadme": "node updateReadme.js"
   },
   "repository": {
     "type": "git",
