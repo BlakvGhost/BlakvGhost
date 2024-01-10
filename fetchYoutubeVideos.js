@@ -3,7 +3,7 @@ const channelId = process.env.YOUTUBE_API_KEY;
 const maxResults = 5;
 const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&maxResults=${maxResults}&order=date&type=video&key=${apiKey}`;
 
-async function fetchYouTubeVideos() {
+export default async function fetchYouTubeVideos() {
   try {
     const response = await fetch(apiUrl);
     const data = await response.json();
@@ -31,5 +31,3 @@ async function fetchYouTubeVideos() {
     return '';
   }
 }
-
-module.exports = fetchYouTubeVideos;
