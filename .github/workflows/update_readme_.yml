@@ -22,7 +22,7 @@ jobs:
         run: npm install
       - name: Update README.md file
         run: |
-          node updateReadme.js > README.md
+          node updateReadme > README.md
         env:
           YOUR_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUR_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
