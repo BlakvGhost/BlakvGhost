@@ -26,7 +26,7 @@ export default async function fetchYouTubeVideos() {
 
         const videoElements = videos.map(video => {
             const videoUrl = `https://www.youtube.com/watch?v=${video.videoId}`;
-            return `<a href="${videoUrl}" target="_blank" style="margin:5px"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%"></a><br/><br>`;
+            return `<a href="${videoUrl}" target="_blank" style="margin:5px"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%"></a>&nbsp;&nbsp;&nbsp;`;
         });
 
         return videoElements.join('');
