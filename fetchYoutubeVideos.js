@@ -1,5 +1,5 @@
 const apiKey = process.env.YOUTUBE_API_KEY;
-const channelId = process.env.YOUTUBE_API_KEY;
+const channelId = process.env.YOUTUBE_CHANNEL_ID;
 const maxResults = 5;
 const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&maxResults=${maxResults}&order=date&type=video&key=${apiKey}`;
 

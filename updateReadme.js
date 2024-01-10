@@ -1,6 +1,6 @@
 
 import { readFileSync, writeFileSync } from 'fs';
-import fetchYouTubeVideos from './fetchYouTubeVideos.js';
+import fetchYouTubeVideos from './fetchYoutubeVideos.js';
 
 async function updateReadme() {
   const youtubeVideos = await fetchYouTubeVideos();
