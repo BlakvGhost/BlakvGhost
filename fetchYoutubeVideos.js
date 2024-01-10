@@ -4,7 +4,7 @@ dotenv.config()
 
 const apiKey = process.env.YOUTUBE_API_KEY;
 const channelId = process.env.YOUTUBE_CHANNEL_ID;
-const maxResults = 5;
+const maxResults = 10;
 const apiUrl = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&maxResults=${maxResults}&order=date&type=video&key=${apiKey}`;
 
 export default async function fetchYouTubeVideos() {
@@ -26,7 +26,7 @@ export default async function fetchYouTubeVideos() {
 
     const videoElements = videos.map(video => {
       const videoUrl = `https://www.youtube.com/watch?v=${video.videoId}`;
-      return `<a href="${videoUrl}" target="_blank"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%" style="margin: 0 1%;"></a>`;
+      return `<a href="${videoUrl}" target="_blank" style="margin:5px"><img src="${video.thumbnailUrl}" alt="${video.title}" title="${video.title}" width="20%" style="margin: 0 1%;"></a>`;
     });
 
     return videoElements.join('');
