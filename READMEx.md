@@ -61,8 +61,8 @@ if __name__ == '__main__':
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" width="45%"/>
 </p>
 
 <h2 align="center">I'm currently vibing to 🎧</h2>
