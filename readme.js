@@ -1,80 +1,73 @@
 export default `
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Kabirou ALASSANE</h1>
-<h5 align="center">I'm a web & mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bénin 🇧🇯. I am a hands-on learner, hence prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms...</h5>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kabirou-alassane-11293524a" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@HyperText23" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitter.com/BlakvGhost" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://dev.to/blakvghost" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Devto-yellow?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Badge"/>
-  </a>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka BlakvGhost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<p align="center">
+  <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;also+Backend-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@HyperText23?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCjI0cBhvFI69L3TcL5nCLEw?color=red&label=Subscribe&logo=youtube&style=for-the-badge"/></a>
+  <a href="https://www.youtube.com/@HyperText23"><img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCjI0cBhvFI69L3TcL5nCLEw?color=e1ad0e&label=Views&logo=eye&logoColor=white&style=for-the-badge&labelColor=0b689d"/></a>
+  <a href="https://twitter.com/BlakvGhost"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/BlakvGhost?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/BlakvGhost"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/BlakvGhost?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/BlakvGhost"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BlakvGhost&color=blue&label=Views&logo=eye&logoColor=white&style=for-the-badge&labelColor=0b689d"/></a>
   <a href="https://blakvghost.medium.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-</div>
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-- 🔭 I’m currently working on **Many Projects**
-
-- 🌱 I’m currently learning **NodeJS, Angular**
-
-- 📺 Follow me on my [youtube channel](https://youtube.com/@HyperText23)
-
-- 💬 Ask me about **PHP, JavaScript, VueJS, Angular, Python/Django, NodeJS, Flutter**
-
-- 📫 How to reach me **<kabirou2001@gmail.com>**
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BlakvGhost&label=Profile%20views&color=0e75b6&style=flat" alt="BlakvGhost" />
-<a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+\```python
+class BlakvGhost():
 
-## <p align="center">🛠 &nbsp;Languages and Tools :</p>
+  def __init__(self):
+    self.name = "Kabirou ALASSANE";
+    self.username = "BlakvGhost";
+    self.location = "Abomey-Calavi, Bénin";
+    self.twitter = "@BlakvGhost";
+    self.web = "https://kabirou-alassane.com";
 
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = BlakvGhost()
+\```
+
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack</h2>
 <p align="center">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.django.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.vuejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vuejs" /></a>
-<a href="https://www.django.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="typescript" /></a>
-<a href="https://www.angular.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.nodejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a>
-<a href="https://www.laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="laravel" /></a>
-<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/></a>
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+  <img alt="Vuejs" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-ffe500?style=flat-square&logo=vite" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-1a73e8?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-311C87?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-430098?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-0f172a?style=flat-square&logo=astro" />
+  <a href="https://wakatime.com/@1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6"><img src="https://wakatime.com/badge/user/1344c5fe-3cc4-4e95-b3cf-d96afbad7bf6.svg" alt="Total time coded since Feb 7 2023" /></a>
 </p>
 
-## <p align="center">🔥 &nbsp; Github Statistics</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakvGhost&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="BlakvGhost" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakvGhost&langs_count=10&theme=radical" alt="BlakvGhost" /></p>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Statistics</h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakvGhost&theme=radical" alt="BlakvGhost" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BlakvGhost&theme=radical" alt="BlakvGhost" /></p>
 
-## <p align="center">Support me</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/kabiroualassane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
+<h2 align="center">I'm currently vibing to 🎧</h2>
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+</p>
 
 `
