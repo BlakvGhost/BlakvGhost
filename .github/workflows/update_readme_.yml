@@ -24,8 +24,8 @@ jobs:
         run: |
           node updateReadme > README.md
         env:
-          YOUR_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          YOUR_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           CI: true
       - name: commit changes
         uses: EndBug/add-and-commit@v4
