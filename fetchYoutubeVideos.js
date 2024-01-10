@@ -28,6 +28,6 @@ export default async function fetchYouTubeVideos() {
     return videoElements.join('');
   } catch (error) {
     console.error('Error fetching YouTube videos:', error);
-    return '';
+    return console.error('Error fetching YouTube videos:', error);;
   }
 }
