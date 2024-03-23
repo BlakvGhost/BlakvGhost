@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - aka BlakvGhost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Kabir</a> - alias BlakvGhost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p align="center">
   <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;also+Backend-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -73,5 +73,5 @@ if __name__ == '__main__':
 
 <h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31swmizgwojd6sju6wim2pilmmoa&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3ihtthi4dpextg62nfvktkefq&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
 </p>
