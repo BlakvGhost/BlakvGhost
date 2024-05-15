@@ -25,7 +25,7 @@ class BlakvGhost():
     self.username = "BlakvGhost";
     self.location = "Abomey-Calavi, Bénin";
     self.twitter = "@BlakvGhost";
-    self.web = "https://kabirou-alassane.com";
+    self.web = "https://username-blakvghost.com";
 
   def __str__(self):
     return self.name
